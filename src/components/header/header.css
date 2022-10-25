@@ -42,17 +42,14 @@ header {
 
 .me {
     /*background: linear-gradient(var(--color-primary), transparent);*/
-    width: 22rem;
-    height: 30rem;
-    position: absolute;
-    left: calc(50% - 11rem);
-    margin-top: 4rem;
-    border-radius: 12rem 12rem 0rem 0;
-    padding: 7rem 3rem 3rem 3rem;
+    width: 25%;
+    aspect-ratio: 1.8/2;
     overflow: hidden;
-    margin-bottom: auto;
-    
-    
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    border: 0.4rem solid var(--color-primary-variant);
+    margin-top: 6rem;
+
 }
 
 /* =================== SCROLL DOWN ====================== */
@@ -79,7 +76,17 @@ header {
         height: 100vh;
     }
 
+    .me {
+        width: auto;
+        padding-top: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
     .header__socials, .scroll__down {
         display: none;
     }
-} 
+
+    .me {
+        width: auto;
+    }
+}

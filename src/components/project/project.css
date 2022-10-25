@@ -1,7 +1,8 @@
-.project__container {
+.container__project__container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 3rem;
+    padding: 4rem;
 }
 
 .project {
@@ -53,7 +54,7 @@
 
 /* ====================== MEDIA QUERIES (MEDIUM DEVICES) ======================= */
 @media screen and (max-width: 1024px) {
-    .project__container {
+    .container__project__container {
         grid-template-columns: 1fr 1fr;
         gap: 2rem;
     }
@@ -66,7 +67,7 @@
 
 /* ====================== MEDIA QUERIES (SMALL DEVICES) ======================= */
 @media screen and (max-width: 600px){
-    .project__container {
+    .container__project__container {
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }

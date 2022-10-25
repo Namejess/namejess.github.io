@@ -14,20 +14,20 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 const data = [
-  {
-    avatar: AVTR1,
-    name: 'Morgan Bertrand',
-    review: 'Il est incroyable ce con !'
-  },
+  // {
+  //   avatar: AVTR1,
+  //   name: 'Morgan Bertrand',
+  //   review: 'Il est incroyable ce con !'
+  // },
   {
     avatar: AVTR2,
-    name: 'Elias Ohayon',
+    name: 'Elias Ohayon - Head of Products chez Pharmagest',
     review: "En plus d'être doté d'une remarquable capacité d'analyse sur les sujets les plus pointus, Jessy possède la faculté rare d'apprendre en continu et de façon très poussée jusqu'à un niveau de maitrise des sujets élevé. Son leadership naturel complète le tableau : celui d'une personne qu'on a envie d'avoir dans son équipe."
   },
   {
     avatar: AVTR3,
-    name: 'Steeve Chabanel',
-    review: 'Il est TERRIBLEMENT incroyable ce con !'
+    name: 'Steeve Chabanel - Responsable technique chez OCI57',
+    review: "Les personnes travaillant dans notre équipe ont su estimer sa rigueur et sa motivation qui ont fait de lui un collaborateur efficace. Les autres équipes du groupe avec lesquelles nous travaillions quotidiennement ont également apprécié les qualités humaines de Jessy qui s'est très vite intégré à la vie de l'entreprise."
   }
 ]
 

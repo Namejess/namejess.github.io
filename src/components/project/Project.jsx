@@ -10,7 +10,7 @@ const Project = () => {
       <h5> Apprentissage</h5>
       <h2> Mes projets </h2>
 
-      <div className="container project__container">
+      <div className="container__project__container">
         <article className='project'>
           <div className="project__head">
             <h3>Developpement web/mobile</h3>
@@ -27,12 +27,9 @@ const Project = () => {
             </li>
             <li>
               <BiCheck className='project__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Début d'un projet eCommerce (Java/Firebase)</p>
             </li>
-            <li>
-              <BiCheck className='project__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            
           </ul>
         </article>
         {/* END OF WEBDEV */}

@@ -16,8 +16,8 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
             <h3>Escape Mini Monster (Godot)</h3>
             <div className='portfolio__item-cta '>          
-              <a href="https://github.com" className='btn' target='_blank'>Github</a> 
-              <a href="https://github.com" className='btn btn-primary' target='init_game'>Live demo</a>
+              <a href="https://github.com/Namejess/Godot" className='btn' target='_blank'>Github</a> 
+              <a href="https://namejess.itch.io/escape-mini-monster" className='btn btn-primary' target='init_game'>Live demo</a>
           </div>
         </article>
 
@@ -26,7 +26,7 @@ const Portfolio = () => {
             <img src={IMG2} alt="" />
             <h3>Ce site, réalisé avec React/NodeJS</h3>
             <div className='portfolio__item-cta '>          
-              <a href="https://github.com" className='btn' target='_blank'>Github</a>
+              <a href="https://github.com/Namejess/namejess.github.io" className='btn' target='_blank'>Github</a>
           </div>
         </article>
 
@@ -35,7 +35,7 @@ const Portfolio = () => {
             <img src={IMG3} alt=""  />
             <h3>Petit plateformer (Godot)</h3>
             <div className='portfolio__item-cta '>          
-              <a href="https://github.com" className='btn' target='_blank'>Github</a>
+              <a href="https://namejess.itch.io/escape-mini-monster" className='btn' target='_blank'>Github</a>
           </div>
         </article>
       </div>
