@@ -16,17 +16,17 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: 'Elias Ohayon',
+    name: 'Morgan Bertrand',
     review: 'Il est incroyable ce con !'
   },
   {
     avatar: AVTR2,
     name: 'Elias Ohayon',
-    review: 'Il est VRAIMENT incroyable ce con !'
+    review: "En plus d'être doté d'une remarquable capacité d'analyse sur les sujets les plus pointus, Jessy possède la faculté rare d'apprendre en continu et de façon très poussée jusqu'à un niveau de maitrise des sujets élevé. Son leadership naturel complète le tableau : celui d'une personne qu'on a envie d'avoir dans son équipe."
   },
   {
     avatar: AVTR3,
-    name: 'Morgan Bertrand',
+    name: 'Steeve Chabanel',
     review: 'Il est TERRIBLEMENT incroyable ce con !'
   }
 ]
