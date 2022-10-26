@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a57bbc6.css",
-    "main.js": "/static/js/main.408a46b8.js",
-    "static/media/react.gif": "/static/media/react.686355f9de4c9a3d062d.gif",
-    "static/media/frog.gif": "/static/media/frog.20516f9b55153b419f75.gif",
+    "main.css": "/static/css/main.3f747e69.css",
+    "main.js": "/static/js/main.cc1fd506.js",
+    "static/media/react2.gif": "/static/media/react2.e15b42e83d7f56ce9540.gif",
+    "static/media/frog.gif": "/static/media/frog.f8b27d8bae1727e652f5.gif",
     "static/media/pc.jpg": "/static/media/pc.33c52dd44899c41a3aa7.jpg",
     "static/media/jess2.jpg": "/static/media/jess2.f79af3108da0e5b0e795.jpg",
     "static/media/DROUIN_JESSY_CV_Dev.pdf": "/static/media/DROUIN_JESSY_CV_Dev.64a057a47473019f1499.pdf",
     "index.html": "/index.html",
-    "main.1a57bbc6.css.map": "/static/css/main.1a57bbc6.css.map",
-    "main.408a46b8.js.map": "/static/js/main.408a46b8.js.map"
+    "main.3f747e69.css.map": "/static/css/main.3f747e69.css.map",
+    "main.cc1fd506.js.map": "/static/js/main.cc1fd506.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a57bbc6.css",
-    "static/js/main.408a46b8.js"
+    "static/css/main.3f747e69.css",
+    "static/js/main.cc1fd506.js"
   ]
 }
