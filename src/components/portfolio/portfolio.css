@@ -18,8 +18,9 @@
 }
 
 .portfolio__item-image {
-    border-radius: 1rem;
+    border-radius: 10rem;
     overflow: hidden;
+    width: 75,
 }
 
 .portfolio__item-image3 {

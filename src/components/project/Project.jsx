@@ -2,15 +2,14 @@ import React from 'react'
 import './project.css'
 import {BiCheck} from 'react-icons/bi'
 
-
-
 const Project = () => {
   return (
     <section id='project'>
       <h5> Apprentissage</h5>
       <h2> Mes projets </h2>
 
-      <div className="container__project__container">
+      <div className="container__project__container"  
+        >
         <article className='project'>
           <div className="project__head">
             <h3>Developpement web/mobile</h3>
@@ -73,7 +72,7 @@ const Project = () => {
             </li>
             <li>
               <BiCheck className='project__list-icon'/>
-              <p>Utilisation Azure (DevOps, Pipeline, installation de GitLab</p>
+              <p>Utilisation Microsoft Azure (DevOps, Pipeline, installation de GitLab)</p>
             </li>
             <li>
               <BiCheck className='project__list-icon'/>
@@ -91,5 +90,8 @@ const Project = () => {
     </section>
   )
 }
+
+
+// style={{display: "grid", gridTemplateColumns:'1fr 1fr 1fr', gap:"3rem", padding:"4rem" }}
 
 export default Project

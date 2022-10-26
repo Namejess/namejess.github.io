@@ -1,0 +1,6 @@
+This logo was generated using the following font:
+
+- Font Title: Convergence
+- Font Author: Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com> and John Vargas Beltran <http://www.johnvargasbeltran.com/>, with Reserved Font Names "Convergence".
+- Font Source: http://fonts.gstatic.com/s/convergence/v15/rax5HiePvdgXPmmMHcIPYRhasU7Q8Cad.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

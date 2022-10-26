@@ -68,6 +68,7 @@ header {
     header {
         height: 68vh;
     }
+
 }
 
 /* ====================== MEDIA QUERIES (SMALL DEVICES) ======================= */
@@ -76,17 +77,12 @@ header {
         height: 100vh;
     }
 
-    .me {
-        width: auto;
-        padding-top: 1.5rem;
-        margin-bottom: 2rem;
-    }
 
     .header__socials, .scroll__down {
         display: none;
     }
 
     .me {
-        width: auto;
+        width: 60%;
     }
 }

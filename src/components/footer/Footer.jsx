@@ -4,13 +4,15 @@ import {BsTwitter} from 'react-icons/bs'
 import {BsGithub} from 'react-icons/bs'
 import {SiLeetcode} from 'react-icons/si'
 import {BsLinkedin} from 'react-icons/bs'
+import {BsFillHeartFill} from 'react-icons/bs'
+
 
 
 
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>SEE YA !! </a>
+      <a href="#" className='footer__logo'><BsFillHeartFill/></a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
