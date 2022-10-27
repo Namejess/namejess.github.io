@@ -19,7 +19,7 @@ import {SiDatacamp} from 'react-icons/si'
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>Expérience</h5>
+      <h5>Expériences</h5>
       <h2> Compétences</h2>
 
       <div className='container experience__container'>

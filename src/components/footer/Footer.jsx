@@ -6,9 +6,6 @@ import {SiLeetcode} from 'react-icons/si'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsFillHeartFill} from 'react-icons/bs'
 
-
-
-
 const Footer = () => {
   return (
     <footer>
@@ -34,7 +31,7 @@ const Footer = () => {
     </div>
 
     <div className="footer__copyright">
-      <small>&copy; DROUIN Jessy. Tout droits réservés. </small>
+      <small>&copy; DROUIN Jessy. Tous droits réservés. </small>
     </div>
 
     </footer>

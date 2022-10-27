@@ -1,6 +1,6 @@
-.container__project__container {
+.container__project{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
     gap: 3rem;
     padding: 4rem;
 }
@@ -54,7 +54,7 @@
 
 /* ====================== MEDIA QUERIES (MEDIUM DEVICES) ======================= */
 @media screen and (max-width: 1024px) {
-    .container__project__container {
+    .project__container {
         grid-template-columns: 1fr 1fr;
         gap: 2rem;
     }
@@ -67,7 +67,7 @@
 
 /* ====================== MEDIA QUERIES (SMALL DEVICES) ======================= */
 @media screen and (max-width: 600px){
-    .container__project__container {
+    .project__container {
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }

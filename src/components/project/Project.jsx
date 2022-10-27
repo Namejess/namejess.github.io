@@ -8,8 +8,7 @@ const Project = () => {
       <h5> Apprentissage</h5>
       <h2> Mes projets </h2>
 
-      <div className="container__project__container"  
-        >
+      <div className="container container__project">
         <article className='project'>
           <div className="project__head">
             <h3>Developpement web/mobile</h3>
