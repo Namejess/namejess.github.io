@@ -41,7 +41,7 @@ const Portfolio = () => {
             }} />
             <h3>Petit plateformer (Godot)</h3>
             <div className='portfolio__item-cta '>          
-              <a href="https://namejess.itch.io/escape-mini-monster" className='btn' target='_blank' rel="noreferrer">Github</a>
+              <a href="https://github.com/Namejess/Godot_2D_Game" className='btn' target='_blank' rel="noreferrer">Github</a>
           </div>
         </article>
       </div>

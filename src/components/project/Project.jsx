@@ -75,7 +75,7 @@ const Project = () => {
             </li>
             <li>
               <BiCheck className='project__list-icon'/>
-              <p>Progression en DSA ( "Cracking the Code Interview", AlgoExpert.com...)</p>
+              <p>Progression en DSA ( "Cracking the Code Interview", Leetcode.com...)</p>
             </li>
             <li>
               <BiCheck className='project__list-icon'/>

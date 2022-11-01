@@ -42,10 +42,10 @@ header {
 
 .me {
     /*background: linear-gradient(var(--color-primary), transparent);*/
-    width: 25%;
-    aspect-ratio: 1.8/2;
-    overflow: hidden;
-    border-radius: 50%;
+    width: 22%;
+    aspect-ratio: 1/1;
+    overflow: auto;
+    border-radius: 100%;
     margin: 0 auto 1rem;
     border: 0.4rem solid var(--color-primary-variant);
     margin-top: 6rem;
