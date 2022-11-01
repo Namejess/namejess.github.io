@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.92bbadf5.css",
+    "main.css": "/static/css/main.6a21267e.css",
     "main.js": "/static/js/main.e366a9c9.js",
     "static/media/react2.gif": "/static/media/react2.e15b42e83d7f56ce9540.gif",
     "static/media/frog.gif": "/static/media/frog.f8b27d8bae1727e652f5.gif",
@@ -8,11 +8,11 @@
     "static/media/jess2.jpg": "/static/media/jess2.f79af3108da0e5b0e795.jpg",
     "static/media/DROUIN_JESSY_CV_Dev.pdf": "/static/media/DROUIN_JESSY_CV_Dev.64a057a47473019f1499.pdf",
     "index.html": "/index.html",
-    "main.92bbadf5.css.map": "/static/css/main.92bbadf5.css.map",
+    "main.6a21267e.css.map": "/static/css/main.6a21267e.css.map",
     "main.e366a9c9.js.map": "/static/js/main.e366a9c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.92bbadf5.css",
+    "static/css/main.6a21267e.css",
     "static/js/main.e366a9c9.js"
   ]
 }
