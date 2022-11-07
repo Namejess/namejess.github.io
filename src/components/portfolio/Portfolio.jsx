@@ -3,6 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../assets/Escape.png'
 import IMG2 from '../../assets/react2.gif'
 import IMG3 from '../../assets/frog.gif'
+import IMG4 from '../../assets/smash.gif'
+
 
 const Portfolio = () => {
   return (
@@ -28,7 +30,7 @@ const Portfolio = () => {
             <img src={IMG2} alt="" style={{
               borderRadius: 20,
             }}/>
-            <h3>Ce site, réalisé avec React/NodeJS</h3>
+            <h3>Ce site, réalisé avec React</h3>
             <div className='portfolio__item-cta '>          
               <a href="https://github.com/Namejess/namejess.github.io" className='btn' target='_blank' rel="noreferrer">Github</a>
           </div>
@@ -42,6 +44,19 @@ const Portfolio = () => {
             <h3>Petit plateformer (Godot)</h3>
             <div className='portfolio__item-cta '>          
               <a href="https://github.com/Namejess/Godot_2D_Game" className='btn' target='_blank' rel="noreferrer">Github</a>
+          </div>
+        </article>
+
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image" ></div>
+            <img src={IMG4} alt="" style={{
+              borderRadius: 20,
+            }} />
+            <h3>Smash Mini Monster (Godot)</h3>
+            <div className='portfolio__item-cta '>          
+              <a href="https://github.com/Namejess/Godot-3D" className='btn' target='_blank' rel="noreferrer">Github</a>
+              <a href="https://namejess.itch.io/smash-mini-monster" className='btn btn-primary' target='_blank' rel="noreferrer">Live demo</a>
+
           </div>
         </article>
       </div>

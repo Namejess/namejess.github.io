@@ -21,7 +21,7 @@ const data = [
   // },
   {
     avatar: AVTR2,
-    name: 'Elias Ohayon - Head of Products chez Pharmagest',
+    name: 'Elias Ohayon - Head of Products chez Prokov',
     review: "En plus d'être doté d'une remarquable capacité d'analyse sur les sujets les plus pointus, Jessy possède la faculté rare d'apprendre en continu et de façon très poussée jusqu'à un niveau de maitrise des sujets élevé. Son leadership naturel complète le tableau : celui d'une personne qu'on a envie d'avoir dans son équipe."
   },
   {

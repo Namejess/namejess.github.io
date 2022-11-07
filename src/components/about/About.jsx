@@ -8,7 +8,7 @@ import {BsTerminalFill} from 'react-icons/bs'
 const About = () => {
   return (
     <section id='about'>
-      <h5> Get to Know</h5>
+      <h5> Me voici</h5>
       <h2> About Me</h2>
       
       <div className='container about__container'>
@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Toujours en quête d'apprentissage et de connaissances dans le domaine de l'IT, je suis passionné par ce domaine et les métiers qui l'entoure. 
+            Toujours en quête d'apprentissage et de connaissances dans le domaine de l'IT, je suis passionné par ce domaine et les métiers qui l'entourent. 
             Diplomé en administration système & réseaux puis en développement, j'aime l'aspect technique d'un projet et le challenge intellectuel qu'il représente.
           </p>
 

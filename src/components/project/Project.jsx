@@ -67,7 +67,7 @@ const Project = () => {
           <ul className="project__list"> 
             <li>
               <BiCheck className='project__list-icon'/>
-              <p>Java: Spring (Boot/Web/Data) / Swing</p>
+              <p><a href="https://iron-jaguar-2cd.notion.site/API-Rest-avec-Spring-Boot-ec77693f7c6f4b59b298505d0765dc02" target="_blank"> Java: Spring (Boot/Web/Data) / Swing </a></p>
             </li>
             <li>
               <BiCheck className='project__list-icon'/>
