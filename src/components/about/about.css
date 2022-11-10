@@ -19,9 +19,9 @@
 
 .about__me-image {
     border-radius: 2rem;
-    overflow: hidden;
-    transform: rotate(10deg);
+    margin-bottom: 7rem;
     transition: var(--transition);
+    width: 75%;
 }
 
 .about__me-image:hover {
@@ -70,6 +70,13 @@
 
 }
 
+.my-atropos {
+    width: 320px;
+    height: 160px;
+  }
+
+
+
 
 /* ====================== MEDIA QUERIES (MEDIUM DEVICES) ======================= */
 @media screen and (max-width: 1024px) {
@@ -89,6 +96,8 @@
     
 }
 
+
+
 /* ====================== MEDIA QUERIES (SMALL DEVICES) ======================= */
 @media screen and (max-width: 600px){
     .about__me {
@@ -97,7 +106,7 @@
     }
 
     .about__cards {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 1rem;
     }
 

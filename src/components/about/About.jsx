@@ -1,6 +1,7 @@
 import React from 'react'
+import Atropos from 'atropos/react';
 import './about.css'
-import ME from '../../assets/pc.jpg'
+import ME from '../../assets/dev.png'
 import {FaAward} from 'react-icons/fa'
 import {AiFillDatabase} from 'react-icons/ai'
 import {BsTerminalFill} from 'react-icons/bs'
@@ -14,14 +15,22 @@ const About = () => {
       <div className='container about__container'>
         <div className='about__me'>
           <div className='about__me-image'>
-            <img src={ME} alt="About image" />
+            <Atropos activeOffset={40}
+                    shadow={true}
+                    highlight={true}
+                    shadowScale={30}
+                    rotateXMax={5}>
 
+              <img src={ME} alt="About image" 
+              data-atropos-offset="5" 
+              data-atropos-shadowScale="1.05"  />
 
+            </Atropos>
       </div>
         </div>
         <div className='about__content'>
           <div className="about__cards">
-            <article className='about__card'>
+            <article className='about__card' >
               <FaAward className='about__icon'/>
               <h5> Experience</h5>
               <small> 4 ans d'expérience IT</small>
