@@ -27,6 +27,10 @@ const Project = () => {
               <BiCheck className='project__list-icon'/>
               <p>Début d'un projet eCommerce (Java/Firebase)</p>
             </li>
+            <li>
+              <BiCheck className='project__list-icon'/>
+              <p>Clone de Youtube (Angular/Java Spring boot/AWS S3)</p>
+            </li>
             
           </ul>
         </article>

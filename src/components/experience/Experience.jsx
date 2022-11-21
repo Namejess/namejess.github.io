@@ -2,7 +2,7 @@ import React from 'react'
 import './experience.css'
 import {AiFillHtml5} from 'react-icons/ai'
 import {IoLogoCss3} from 'react-icons/io'
-import {SiBootstrap} from 'react-icons/si'
+import {FaAngular} from 'react-icons/fa'
 import {IoLogoJavascript} from 'react-icons/io'
 import {FaReact} from 'react-icons/fa'
 import {FaWordpress} from 'react-icons/fa'
@@ -15,6 +15,7 @@ import {FaDocker} from 'react-icons/fa'
 import {SiGodotengine} from 'react-icons/si'
 import {SiCsharp} from 'react-icons/si'
 import {SiDatacamp} from 'react-icons/si'
+import {AiOutlineConsoleSql} from 'react-icons/ai'
 
 const Experience = () => {
   return (
@@ -51,9 +52,9 @@ const Experience = () => {
             </article>
             
             <article className='experience__details'>
-              <SiBootstrap className='experience__details-icon' />
+              <FaAngular className='experience__details-icon' />
               <div>
-                <h4>Bootstrap</h4>
+                <h4>Angular</h4>
                 <small className='text-light'> Intermédiaire </small>
               </div>
             </article>
@@ -175,6 +176,14 @@ const Experience = () => {
               <div>
                 <h4>Data Structures & Algorithms</h4>
                 <small className='text-light'> Débutant </small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <AiOutlineConsoleSql className='experience__details-icon'/>
+              <div>
+                <h4>MySQL / SQL Server</h4>
+                <small className='text-light'> Intermédiaire </small>
               </div>
             </article>
 
