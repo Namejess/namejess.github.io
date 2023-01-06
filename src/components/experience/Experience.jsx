@@ -12,10 +12,11 @@ import {SiMysql} from 'react-icons/si'
 import {IoLogoPython} from 'react-icons/io'
 import {FaJava} from 'react-icons/fa'
 import {FaDocker} from 'react-icons/fa'
-import {SiGodotengine} from 'react-icons/si'
 import {SiCsharp} from 'react-icons/si'
 import {SiDatacamp} from 'react-icons/si'
 import {AiOutlineConsoleSql} from 'react-icons/ai'
+import {FaRust} from 'react-icons/fa'
+
 
 const Experience = () => {
   return (
@@ -156,10 +157,10 @@ const Experience = () => {
 
 
             <article className='experience__details'>
-              <SiGodotengine className='experience__details-icon'/>
+              <FaRust className='experience__details-icon'/>
               <div>
-                <h4>GDScript</h4>
-                <small className='text-light'> Débutant </small>
+                <h4>Rust</h4>
+                <small className='text-light'> Intermédiaire </small>
               </div>
             </article>
 
